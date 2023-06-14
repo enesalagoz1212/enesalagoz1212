@@ -1,4 +1,3 @@
-![snake gif](https://github.com/enesalagoz1212/enesalagoz1212/blob/output/github-contribution-grid-snake.gif)
 
 
 <h1 align="center">Hi 👋, I'm Enes</h1>

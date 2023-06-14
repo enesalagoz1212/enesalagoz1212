@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pexels.com/photo/a-unique-metal-chess-set-on-a-white-table-6599577/)
+
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate Game Developer from Turkey</h3>
 

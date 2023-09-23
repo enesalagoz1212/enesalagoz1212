@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/enes-alag%C3%B6z-801065258/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes alagöz" height="30" width="40" />
 </a>
-<a href="https://instagram.com/enes alagöz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enes alagöz" height="30" width="40" /></a>
 <a href="https://medium.com/@alagozenes13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alagozenes13" height="30" width="40" /></a>
 </p>
 
